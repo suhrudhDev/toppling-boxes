@@ -1,2 +1,1 @@
-# toppling-boxes
-box class
+# Box Class
